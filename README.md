@@ -1,0 +1,44 @@
+# **Hello, Nice to meet you <br /> I am Yoo Guk Hyeon 💻**
+
+
+### *This is my developer blog* 👨🏽‍💻  **Click** [Go to my blog](https://cometruedream.tistory.com/)
+
+## This is my stacks 🤖
+![NODE](https://img.shields.io/badge/-node.js-026e00?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![REACT](https://img.shields.io/badge/-react-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)
+![NEXT](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![MYSQL](https://img.shields.io/badge/-mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![MONGODB](https://img.shields.io/badge/-mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=026e00)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![GIT](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=git&logoColor=ffffff)
+![GITBOOK](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=git&logoColor=ffffff)
+![DOCKER](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=Docker&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/-AWS-ec7211?style=for-the-badge&logo=aws&logoColor=026e00)
+![HEROKU](https://img.shields.io/badge/-HEROKU-79589F?style=for-the-badge&logo=HEROKU&logoColor=ffffff)
+![NPM](https://img.shields.io/badge/-NPM-ffffff?style=for-the-badge&logo=NPM&logoColor=ffffff)
+![JAVASCRIPT](https://img.shields.io/badge/-javascript-23F7DF1C?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=CSS3&logoColor=ffffff)
+
+---
+### My pros ✨ :
+  - [Advantages](#categories)
+      - [Always active 🤖](#github-actions-)
+      - [Cooperation 🚀](#game-mode-)
+      - [Flexible 👨🏽‍💻](#code-mode-)
+      - [Communication 💫](#dynamic-realtime-)
+      - [Questions 😃](#a-little-bit-of-everything-)
+      - [diligently 🗒](#descriptive-)
+      - [steady 🤗](#simple-but-innovative-ones-)
+      - [Simple is the best 🎰](#typing-mode-)
+   
+## My latest projects 🤗
+- [사이다경제](https://cidermics.com/) - Node.js, Npm, Aws, Mysql
+- [사이다경제 시그널](https://signal.cidermics.com/) - Next.js, Aws Serverless, Mysql 
+- [Wtemplete 사이드 프로젝트](https://wtemplete.shop/) - HTML5, CSS3, Node.js, Mysql, Cafe24 Hosting 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoogukhyeon&layout=compact&theme=transparent)](https://github.com/yoogukhyeon/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoogukhyeon&layout=compact&theme=tokyonight)](https://github.com/yoogukhyeon/github-readme-stats)
