@@ -11,13 +11,14 @@
 ![MYSQL](https://img.shields.io/badge/-mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![MONGODB](https://img.shields.io/badge/-mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=026e00)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![GIT](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=git&logoColor=ffffff)
-![GITBOOK](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=git&logoColor=ffffff)
+![GIT](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=git&logoColor=ffffff)
+![GITBOOK](https://img.shields.io/badge/-gitbook-000000?style=for-the-badge&logo=git&logoColor=ffffff)
 ![DOCKER](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=Docker&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-ec7211?style=for-the-badge&logo=aws&logoColor=026e00)
 ![HEROKU](https://img.shields.io/badge/-HEROKU-79589F?style=for-the-badge&logo=HEROKU&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-NPM-ffffff?style=for-the-badge&logo=NPM&logoColor=ffffff)
 ![JAVASCRIPT](https://img.shields.io/badge/-javascript-23F7DF1C?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![JQUERY](https://img.shields.io/badge/-jquery-ffffff?style=for-the-badge&logo=jquery&logoColor=ff00ff)
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 
@@ -36,6 +37,7 @@
 ## My latest projects 🤗
 - [사이다경제](https://cidermics.com/) - Node.js, Npm, Aws, Mysql
 - [사이다경제 시그널](https://signal.cidermics.com/) - Next.js, Aws Serverless, Mysql 
+- [스노우피크](https://www.snowpeak.co.kr/main.do) - HTML5, CSS3, Javascript, Jquery, Java, Gitlab, 
 - [Wtemplete 사이드 프로젝트](https://wtemplete.shop/) - HTML5, CSS3, Node.js, Mysql, Cafe24 Hosting 
 ---
 
