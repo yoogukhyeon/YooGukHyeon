@@ -12,7 +12,7 @@
 ![MONGODB](https://img.shields.io/badge/-mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=026e00)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![GIT](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=git&logoColor=ffffff)
-![GITBOOK](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=gitBook&logoColor=ffffff)
+![GITBOOK](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=git&logoColor=ffffff)
 ![DOCKER](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=Docker&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-ec7211?style=for-the-badge&logo=aws&logoColor=026e00)
 ![HEROKU](https://img.shields.io/badge/-HEROKU-79589F?style=for-the-badge&logo=HEROKU&logoColor=ffffff)
