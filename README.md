@@ -58,8 +58,5 @@
 
 
 
-<a href="https://github.com/yoogukhyeon/github-stats">
-<img src="[https://github.com/yoogukhyeon/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only](https://github-readme-stats.vercel.app/api/top-langs/?username=yoogukhyeon&layout=compact&theme=tokyonight)](https://github.com/yoogukhyeon/github-readme-stats)" />
-<img src="[https://github.com/yoogukhyeon/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only](https://github-readme-stats.vercel.app/api?username=yoogukhyeon&layout=compact&theme=transparent)](https://github.com/yoogukhyeon/github-readme-stats)" />
-</a>
+
 
