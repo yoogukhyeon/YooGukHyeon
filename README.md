@@ -35,10 +35,10 @@
       - [Simple is the best 🎰](#typing-mode-)
    
 ## My latest projects 🤗
-- [사이다경제](https://cidermics.com/) - Node.js, Npm, Aws, Mysql
-- [사이다경제 시그널](https://signal.cidermics.com/) - Next.js, Aws Serverless, Mysql 
+- [사이다경제](https://cidermics.com/) - Node.js, Ejs, Npm, Aws, Mysql
+- [사이다경제 시그널](https://signal.cidermics.com/) - Next.js, Node.js, Aws Serverless, Mysql 
 - [스노우피크](https://www.snowpeak.co.kr/main.do) - HTML5, CSS3, Javascript, Jquery, Java, Gitlab, 
-- [Wtemplete 사이드 프로젝트](https://wtemplete.shop/) - HTML5, CSS3, Node.js, Mysql, Cafe24 Hosting 
+- [Wtemplete Business](https://wtemplete.shop/) - HTML5, CSS3, Node.js, Mysql, Cafe24 Hosting 
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoogukhyeon&layout=compact&theme=transparent)](https://github.com/yoogukhyeon/github-readme-stats)
