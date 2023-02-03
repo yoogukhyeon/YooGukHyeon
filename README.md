@@ -59,3 +59,10 @@
 ![](https://raw.githubusercontent.com/yoogukhyeon/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/yoogukhyeon/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
+<a href="https://github.com/yoogukhyeon/github-stats">
+<img src="https://github.com/yoogukhyeon/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/yoogukhyeon/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/yoogukhyeon/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/yoogukhyeon/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+
