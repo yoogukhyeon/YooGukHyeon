@@ -1,7 +1,7 @@
 # **Hello, Nice to meet you <br /> I am Yoo Guk Hyeon 💻**
 
 
-### *This is my developer blog* 👨🏽‍💻  **Click** [Go to my blog](https://cometruedream.tistory.com/)
+### *This is my developer blog* 👨🏽‍💻  **Click** [Go to my blog](https://cometruedream.tistory.com/) 😃😃
 
 ## Contact with me 
 * Email: rnrgus5897@gmail.com
