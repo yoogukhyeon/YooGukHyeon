@@ -3,6 +3,10 @@
 
 ### *This is my developer blog* 👨🏽‍💻  **Click** [Go to my blog](https://cometruedream.tistory.com/)
 
+## Contact with me 
+* Email: rnrgus5897@gmail.com
+* my business: [Wtemplete Business](https://wtemplete.shop/)
+
 ## This is my stacks 🤖
 ![NODE](https://img.shields.io/badge/-node.js-026e00?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -33,9 +37,11 @@
       - [diligently 🗒](#descriptive-)
       - [steady 🤗](#simple-but-innovative-ones-)
       - [Simple is the best 🎰](#typing-mode-)
-   
+  
 ## My latest projects 🤗
-- [사이다경제](https://cidermics.com/) - Node.js, Ejs, Npm, Aws, Mysql
+- [사이다경제 텐베거]([https://cidermics.com/](https://tenbagger.cidermics.com/)) - Nest.js, Swagger, Next.js, Typescript, Aws Beanstalk, Npm, Aws, Mysql
+- [사이다경제](https://cidermics.com/) - Node.js, Ejs, Npm, Aws, Ec2, Mysql
+- [사이다경제 금융서비스](https://finance.cidermics.com/apply) - Node.js, Ejs, Npm, Aws, Ec2, Mysql
 - [사이다경제 시그널](https://signal.cidermics.com/) - Next.js, Node.js, Aws Serverless, Mysql 
 - [스노우피크](https://www.snowpeak.co.kr/main.do) - HTML5, CSS3, Javascript, Jquery, Java, Gitlab, 
 - [Wtemplete Business](https://wtemplete.shop/) - HTML5, CSS3, Node.js, Mysql, Cafe24 Hosting 
