@@ -53,7 +53,6 @@
 
 ## My GitHub
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoogukhyeon&layout=compact&theme=transparent)](https://github.com/yoogukhyeon/github-readme-stats)
----
 
 ## My Usage
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoogukhyeon&layout=compact&theme=tokyonight)](https://github.com/yoogukhyeon/github-readme-stats)
