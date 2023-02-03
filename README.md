@@ -1,6 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoogukhyeon&count_bg=%2379C83D&title_bg=%23555555&icon=iata.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)    
 # **Hello, Nice to meet you <br /> I am Yoo Guk Hyeon 💻**
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 ### *This is my developer blog* 👨🏽‍💻  **Click** [Go to my blog](https://cometruedream.tistory.com/) 😃😃
 
