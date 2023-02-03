@@ -39,7 +39,7 @@
       - [Simple is the best 🎰](#typing-mode-)
   
 ## My latest projects 🤗
-- [사이다경제 텐베거](https://cidermics.com/](https://tenbagger.cidermics.com/) - Nest.js, Swagger, Next.js, Typescript, Aws Beanstalk, Npm, Aws, Mysql
+- [사이다경제 텐베거](https://tenbagger.cidermics.com/) - Nest.js, Swagger, Next.js, Typescript, Aws Beanstalk, Npm, Aws, Mysql
 - [사이다경제](https://cidermics.com/) - Node.js, Ejs, Npm, Aws, Ec2, Mysql
 - [사이다경제 금융서비스](https://finance.cidermics.com/apply) - Node.js, Ejs, Npm, Aws, Ec2, Mysql
 - [사이다경제 시그널](https://signal.cidermics.com/) - Next.js, Node.js, Aws Serverless, Mysql 
