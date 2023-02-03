@@ -1,5 +1,6 @@
 # **Hello, Nice to meet you <br /> I am Yoo Guk Hyeon 💻**
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 ### *This is my developer blog* 👨🏽‍💻  **Click** [Go to my blog](https://cometruedream.tistory.com/) 😃😃
 
