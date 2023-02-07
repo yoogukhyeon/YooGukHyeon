@@ -59,7 +59,8 @@
 ---
 
 ## Certificate 😃
-![20230207_101636](https://user-images.githubusercontent.com/78013290/217123303-025382d0-6a50-4257-a2bc-9bdadaad30d0.jpg)
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/78013290/217125370-3ef7769f-a60b-4b7a-bd60-f844379b344a.png)
+
 
 
 
