@@ -65,7 +65,8 @@
   - [네트워크 관리사 2급 👨🏽‍💻](#code-mode-)
   - [Sql 개발자 💫](#dynamic-realtime-)
   - [웹디자인 기능사 😃](#a-little-bit-of-everything-)
-  - ![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/78013290/217126024-cdf19ba3-3bac-470f-af48-94a13e363c93.png)
+  - [AWS practitioner 😃](#a-little-bit-of-everything-)
+  ![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/78013290/217126024-cdf19ba3-3bac-470f-af48-94a13e363c93.png)
 
 
 
