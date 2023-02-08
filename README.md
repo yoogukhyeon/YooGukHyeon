@@ -12,6 +12,7 @@
 * my business: [Wtemplete Business](https://wtemplete.shop/)
 
 ## This is my stacks 🤖
+
 ![NODE](https://img.shields.io/badge/-node.js-026e00?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![REACT](https://img.shields.io/badge/-react-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)
@@ -19,7 +20,6 @@
 ![MYSQL](https://img.shields.io/badge/-mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![MONGODB](https://img.shields.io/badge/-mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=026e00)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Swagger]([https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white](https://img.shields.io/swagger/valid/3.0))
 ![GIT](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=git&logoColor=ffffff)
 ![GITBOOK](https://img.shields.io/badge/-gitbook-000000?style=for-the-badge&logo=git&logoColor=ffffff)
 ![DOCKER](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=Docker&logoColor=ffffff)
