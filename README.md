@@ -24,7 +24,7 @@
 ![DOCKER](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=Docker&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-ec7211?style=for-the-badge&logo=aws&logoColor=026e00)
 ![HEROKU](https://img.shields.io/badge/-HEROKU-79589F?style=for-the-badge&logo=HEROKU&logoColor=ffffff)
-![NPM](https://img.shields.io/badge/-NPM-ffffff?style=for-the-badge&logo=NPM&logoColor=ffffff)
+![NPM](https://img.shields.io/badge/-NPM-026e00?style=for-the-badge&logo=NPM&logoColor=ffffff)
 ![JAVASCRIPT](https://img.shields.io/badge/-javascript-23F7DF1C?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![JQUERY](https://img.shields.io/badge/-jquery-ffffff?style=for-the-badge&logo=jquery&logoColor=ff00ff)
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
