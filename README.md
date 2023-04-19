@@ -49,17 +49,26 @@
 - [사이다경제](https://cidermics.com/) - Node.js, Ejs, Npm, Aws, Ec2, Mysql
 - [사이다경제 금융서비스](https://finance.cidermics.com/apply) - Node.js, Ejs, Npm, Aws, Ec2, Mysql
 - [사이다경제 시그널](https://signal.cidermics.com/) - Next.js, Node.js, Aws Serverless, Mysql 
+- [커뮤니티](https://fnfsoccer.com) - React.js, React-query, Jotai, Aws, EC2, Nginx, GitAction, Github 
 - [스노우피크](https://www.snowpeak.co.kr/main.do) - HTML5, CSS3, Javascript, Jquery, Java, Gitlab, 
 - [Wtemplete Business](https://wtemplete.shop/) - HTML5, CSS3, Node.js, Mysql, Cafe24 Hosting 
 ---
 
 ## My GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoogukhyeon&layout=compact&theme=transparent)](https://github.com/yoogukhyeon/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoogukhyeon&show_icons=true&theme=dark)
+  
 ## My Usage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoogukhyeon&layout=compact&theme=tokyonight)](https://github.com/yoogukhyeon/github-readme-stats)
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoogukhyeon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoogukhyeon&repo=soccer-community&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoogukhyeon&repo=nest-aws-beanstalk-api&theme=dark" />
+</a>
+
+---
 ## Certificate 😃
 
 - [mine 🤖](#github-actions-)
