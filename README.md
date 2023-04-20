@@ -9,7 +9,7 @@
 
 ## Contact with me 
 * Email: rnrgus5897@gmail.com
-* my business: [Wtemplete Business](https://wtemplete.shop/)
+* My business: [Wtemplete Business](https://wtemplete.shop/)
 
 ## This is my stacks 🤖
 
@@ -32,7 +32,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 
----
 ### My pros ✨ :
   - [Advantages](#categories)
       - [Always active 🤖](#github-actions-)
@@ -52,7 +51,6 @@
 - [커뮤니티](https://fnfsoccer.com) - React.js, React-query, Jotai, Aws, EC2, Nginx, GitAction, Github 
 - [스노우피크](https://www.snowpeak.co.kr/main.do) - HTML5, CSS3, Javascript, Jquery, Java, Gitlab, 
 - [Wtemplete Business](https://wtemplete.shop/) - HTML5, CSS3, Node.js, Mysql, Cafe24 Hosting 
----
 
 ## Certificate 😃
 
@@ -70,7 +68,7 @@
 ## My Usage
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoogukhyeon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+## Main Projects Usage
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoogukhyeon&repo=soccer-community&theme=dark" />
 </a>
