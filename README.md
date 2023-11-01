@@ -9,8 +9,8 @@
 
 ## Contact with me 
 * Email: rnrgus5897@gmail.com
-* My business: Live score platform: [Live score](https://everyday-365.com/)
-* My business: Landing page:  [Wtemplete Business](https://wtemplete.shop/)
+* My business: LIVE SCORE PLATFORM: [LIVE SCORE PLATFORM](https://everyday-365.com/)
+* My business: LANDING PAGE:  [LANDING BUSINESS](https://wtemplete.shop/)
 
 ## This is my stacks 🤖
 
