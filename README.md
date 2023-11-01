@@ -9,7 +9,8 @@
 
 ## Contact with me 
 * Email: rnrgus5897@gmail.com
-* My business: [Wtemplete Business](https://wtemplete.shop/)
+* My business: Live score platform: [Live score](https://everyday-365.com/)
+* My business: Landing page:  [Wtemplete Business](https://wtemplete.shop/)
 
 ## This is my stacks 🤖
 
@@ -17,6 +18,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![REACT](https://img.shields.io/badge/-react-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)
 ![NEXT](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![NUXT](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=nuxt.js&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-adb5bd?style=for-the-badge&logo=GraphQL&logoColor=ffffff)
 ![MYSQL](https://img.shields.io/badge/-mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![MONGODB](https://img.shields.io/badge/-mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=026e00)
