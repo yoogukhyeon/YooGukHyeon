@@ -9,6 +9,11 @@
 
 ## Contact with me 
 * Email: rnrgus5897@gmail.com
+
+## My portfolio
+* My portfolio: it is my portfolio: [PORTFOLIO](https://yoogukhyeon.github.io/)
+
+## My business  
 * My business: LIVE SCORE PLATFORM: [LIVE SCORE PLATFORM](https://everyday-365.com/)
 * My business: 웹에서 바로 사용할 수 있는 다양한 웹툴을 제공합니다: [WEB TOOL 웹툴](https://webtool.everyday-365.com/)
 
