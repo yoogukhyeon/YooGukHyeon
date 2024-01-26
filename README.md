@@ -23,6 +23,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![REACT](https://img.shields.io/badge/-react-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)
 ![NEXT](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![VUE3](https://img.shields.io/badge/Vue-3-green?style=for-the-badge&logo=vue.js&logoColor=ffffff)
 ![NUXT](https://img.shields.io/badge/-nuxt.js-026e00?style=for-the-badge&logo=nuxt.js&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-adb5bd?style=for-the-badge&logo=GraphQL&logoColor=ffffff)
 ![MYSQL](https://img.shields.io/badge/-mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=ffffff)
@@ -51,11 +52,11 @@
       - [Simple is the best 🎰](#typing-mode-)
   
 ## My latest projects 🤗
-- [사이다경제 텐베거](https://tenbagger.cidermics.com/) - Nest.js, Swagger, Next.js, Typescript, Aws Beanstalk, Npm, Aws, Mysql
+- [AI김기자](https://aikim.co.kr/) - React.js, React-query, Jotai, Aws, EC2, Nginx, GitAction, Github 
+- [사이다경제 소비자 성향 MBTI](https://mbti.cidermics.com/) - Next.js, ServerlessApi, Swagger, Typescript, Vercel, Npm, Mysql
 - [사이다경제](https://cidermics.com/) - Node.js, Ejs, Npm, Aws, Ec2, Mysql
 - [사이다경제 금융서비스](https://finance.cidermics.com/apply) - Node.js, Ejs, Npm, Aws, Ec2, Mysql
 - [사이다경제 시그널](https://signal.cidermics.com/) - Next.js, Node.js, Aws Serverless, Mysql 
-- [커뮤니티](https://fnfsoccer.com) - React.js, React-query, Jotai, Aws, EC2, Nginx, GitAction, Github 
 - [스노우피크](https://www.snowpeak.co.kr/main.do) - HTML5, CSS3, Javascript, Jquery, Java, Gitlab, 
 - [Wtemplete Business](https://wtemplete.shop/) - HTML5, CSS3, Node.js, Mysql, Cafe24 Hosting 
 
