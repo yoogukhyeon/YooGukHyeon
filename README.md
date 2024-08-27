@@ -14,14 +14,14 @@
 * My portfolio: it is my portfolio: [PORTFOLIO](https://yoogukhyeon.github.io/)
 
 ## My business  
-* My business: LIVE SCORE PLATFORM: [LIVE SCORE PLATFORM](https://everyday-365.com/){:target="_blank"} 
-* My business: 웹에서 바로 사용할 수 있는 다양한 웹툴을 제공합니다: [WEB TOOL 웹툴](https://webtool.everyday-365.com/){:target="_blank"} 
-* My business: PC&MO 웹사이트및 랜딩페이지 제작 솔루션 SI: [WTEMPLATE](https://wtemplate.qshop.ai/){:target="_blank"}  
+* My business: LIVE SCORE PLATFORM: [LIVE SCORE PLATFORM](https://everyday-365.com/)
+* My business: 웹에서 바로 사용할 수 있는 다양한 웹툴을 제공합니다: [WEB TOOL 웹툴](https://webtool.everyday-365.com/)
+* My business: PC&MO 웹사이트및 랜딩페이지 제작 솔루션 SI: [WTEMPLATE](https://wtemplate.qshop.ai/)
 
 ## This is my stacks 🤖
 
 ![NODE](https://img.shields.io/badge/-node.js-026e00?style=for-the-badge&logo=node.js&logoColor=ffffff)
-![JAVA](https://img.shields.io/badge/-java-026e00?style=for-the-badge&logo=java&logoColor=ffffff)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![REACT](https://img.shields.io/badge/-react-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)
 ![NEXT](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
