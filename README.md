@@ -16,10 +16,12 @@
 ## My business  
 * My business: LIVE SCORE PLATFORM: [LIVE SCORE PLATFORM](https://everyday-365.com/)
 * My business: 웹에서 바로 사용할 수 있는 다양한 웹툴을 제공합니다: [WEB TOOL 웹툴](https://webtool.everyday-365.com/)
+* My business: PC&MO 웹사이트및 랜딩페이지 제작 솔루션 SI: [WTEMPLATE](https://wtemplate.qshop.ai/)
 
 ## This is my stacks 🤖
 
 ![NODE](https://img.shields.io/badge/-node.js-026e00?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![JAVA](https://img.shields.io/badge/-java-026e00?style=for-the-badge&logo=java&logoColor=ffffff)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![REACT](https://img.shields.io/badge/-react-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)
 ![NEXT](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
@@ -58,7 +60,7 @@
 - [사이다경제 금융서비스](https://finance.cidermics.com/apply) - Node.js, Ejs, Npm, Aws, Ec2, Mysql
 - [사이다경제 시그널](https://signal.cidermics.com/) - Next.js, Node.js, Aws Serverless, Mysql 
 - [스노우피크](https://www.snowpeak.co.kr/main.do) - HTML5, CSS3, Javascript, Jquery, Java, Gitlab, 
-- [Wtemplete Business](http://wtemplete.shop/) - HTML5, CSS3, Node.js, Mysql, Cafe24 Hosting 
+- [비큐AI](https://becuai.com/) - React.js, Node.js, Mysql, Aws, EC2, Nginx 
 
 ## Certificate 😃
 
