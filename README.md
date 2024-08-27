@@ -14,9 +14,9 @@
 * My portfolio: it is my portfolio: [PORTFOLIO](https://yoogukhyeon.github.io/)
 
 ## My business  
-* My business: LIVE SCORE PLATFORM: [LIVE SCORE PLATFORM](https://everyday-365.com/)
-* My business: 웹에서 바로 사용할 수 있는 다양한 웹툴을 제공합니다: [WEB TOOL 웹툴](https://webtool.everyday-365.com/)
-* My business: PC&MO 웹사이트및 랜딩페이지 제작 솔루션 SI: [WTEMPLATE](https://wtemplate.qshop.ai/) 
+* My business: LIVE SCORE PLATFORM: [LIVE SCORE PLATFORM](https://everyday-365.com/){:target="_blank"} 
+* My business: 웹에서 바로 사용할 수 있는 다양한 웹툴을 제공합니다: [WEB TOOL 웹툴](https://webtool.everyday-365.com/){:target="_blank"} 
+* My business: PC&MO 웹사이트및 랜딩페이지 제작 솔루션 SI: [WTEMPLATE](https://wtemplate.qshop.ai/){:target="_blank"}  
 
 ## This is my stacks 🤖
 
