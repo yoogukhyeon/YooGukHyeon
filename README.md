@@ -18,6 +18,9 @@
 * My business: 웹에서 바로 사용할 수 있는 다양한 웹툴을 제공합니다: [WEB TOOL 웹툴](https://webtool.everyday-365.com/)
 * My business: PC&MO 웹사이트및 랜딩페이지 제작 솔루션 SI: [WTEMPLATE](https://wtemplate.qshop.ai/)
 
+## My AI
+* My AI: Svelte-kit: [ECONOMY BLOG](https://issue-economy.com)
+
 ## This is my stacks 🤖
 
 ![NODE](https://img.shields.io/badge/-node.js-026e00?style=for-the-badge&logo=node.js&logoColor=ffffff)
@@ -27,6 +30,7 @@
 ![NEXT](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![VUE3](https://img.shields.io/badge/Vue-3-green?style=for-the-badge&logo=vue.js&logoColor=ffffff)
 ![NUXT](https://img.shields.io/badge/-nuxt.js-026e00?style=for-the-badge&logo=nuxt.js&logoColor=ffffff)
+![SVELTE](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-adb5bd?style=for-the-badge&logo=GraphQL&logoColor=ffffff)
 ![MYSQL](https://img.shields.io/badge/-mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![MONGODB](https://img.shields.io/badge/-mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=026e00)
