@@ -20,6 +20,7 @@
 
 ## My AI
 * My AI: Svelte-kit: [ECONOMY BLOG](https://issue-economy.com)
+* My AI: Svelte-kit: [IT BLOG](https://it.issue-economy.com)
 
 ## This is my stacks 🤖
 
